@@ -1,0 +1,17 @@
+{
+  "name": "siropy",
+  "description": "Description for siropy",
+  "main": "",
+  "authors": [
+    "Charly <charlynjoume@gmail.com>"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/charnjo/siroapp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
